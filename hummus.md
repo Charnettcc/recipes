@@ -1,5 +1,8 @@
 # Ingredients
 - chickpeas
-- lemon
-- olive oil
+- lime
+- safflower oil
 - salt
+- pepper
+# Author
+Andrea Rayat (A)
